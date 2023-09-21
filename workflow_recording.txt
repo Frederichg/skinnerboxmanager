@@ -1,0 +1,9 @@
+Démarrer les ordinateurs des boites et l'ordinateur central
+Sur l'ordinateur central entrer le mot de passe 123456
+Clic sur l'icone Remote desktop
+pour accéder à une boite clic sur Remote desktop... c'est quoi le nom?
+faire la même chose pour toutes les boites
+
+Démarer l'application GUI
+En haut à droite cliquer sur connecter
+
