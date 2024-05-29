@@ -4,6 +4,7 @@ import threading
  
 devList = serial.tools.list_ports.comports()
 
+
 if devList == []:
     print("No device Found")
 
@@ -17,6 +18,7 @@ for dev in devList:
         quit()
 
 ser = serial.Serial()
+ser.port = "COM5"
 ser.baudrate = 115200
 ser.port = dev.device
 
